@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+body{
+  background:rgb(224, 182, 127)
+}
+*{
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+  list-style: none;
+  font-family: 'Rubik',sans-serif;
+}
+.feuilles{
+  width: fit-content;
+  background: #fff;
+  margin: 15px auto;
+  display: flex; 
+  padding: 0%;
+}
+.right{
+  background-color: rgb(42, 42, 44);
+}
+.right-txt{
+  position: relative; 
+  color: #fff;
+  top: 200px;
+}
+.left{
+  padding: 2%;
+  text-align: left;
+  top: 500px;
+}
+.title{
+  font-size: 30px;
+  position: relative;
+  left: 304px;
+  background: rgb(253, 150, 16);
+  color: #fff;
+  border: none;
+  padding: 2%;
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+.title1{
+  font-size: 24px;
+  position: relative;
+ 
+  background: rgb(253, 150, 16);
+
+  padding-left: 60%;
+}
+.title2{
+  font-size: 24px;
+  position: relative;
+  background: rgb(253, 150, 16);
+  padding-left: 60%;
+}
+.title-contact{
+  font-size: 20px;
+  border:solid rgb(253, 150, 16);
+  margin-bottom: 40px;
+  margin-top: 60px;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.title3{
+  font-size: 24px;
+  position: relative;
+  padding-left: 60%;
+  background: rgb(253, 150, 16);
+  
+}
+.title4{
+  font-size: 24px;
+  position: relative;
+  padding-left: 60%;
+  background: rgb(253, 150, 16);
+}
+.banderol{
+  background:  rgb(253, 150, 16);
+
+}
